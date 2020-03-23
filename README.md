@@ -1,6 +1,6 @@
 # Coronavirus prediction with Machine Learning
 
-[![N|Solid](coronavirus.png)](https://colab.research.google.com/)
+[![N|Solid](figure/coronavirus.png)](https://colab.research.google.com/)
 
 
 
@@ -23,12 +23,12 @@ It's a jupyter notebook that use some Machine Learning methods in order to predi
  
 ### Some images of China predictions
 
-![Predction](china_prediction.PNG)
-![Predction next 15 days](china_prediction_15_days.PNG)
+![Predction](figure/china_prediction.PNG)
+![Predction next 15 days](figure/china_prediction_15_days.PNG)
 
 ### Installation
 
-No installation nedeed, just run on Google Colab
+No installation nedeed, just run on [Google Colab](https://colab.research.google.com/)
 
 
 License
