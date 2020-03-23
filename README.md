@@ -23,8 +23,9 @@ It's a jupyter notebook that use some Machine Learning methods in order to predi
  
 ### Some images of China predictions
 
-* ![Predction](china_prediction.PNG)
-* ![Predction next 15 days](china_prediction_15_days.PNG)
+![Predction](china_prediction.PNG)
+
+![Predction next 15 days](china_prediction_15_days.PNG)
 
 ### Installation
 
