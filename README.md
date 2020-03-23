@@ -1,8 +1,8 @@
-# Corona virus prediction
+# Coronavirus prediction with Machine Learning
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](coronavirus.png)](https://colab.research.google.com/)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 It's a jupyter notebook that use some Machine Learning methods in order to predict the number of deaths etc.. in all country.
   - Toral of confirmed cases
@@ -24,7 +24,6 @@ It's a jupyter notebook that use some Machine Learning methods in order to predi
 ### Some images of China predictions
 
 ![Predction](china_prediction.PNG)
-
 ![Predction next 15 days](china_prediction_15_days.PNG)
 
 ### Installation
